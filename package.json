@@ -1,0 +1,35 @@
+{
+  "name": "nextaws1",
+  "version": "1.0.0",
+  "description": "Intial setup of the NextJS, TypeScript and AWS Amplify project.",
+  "main": "src/pages/index.tsx",
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigomx9/nextaws1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indigomx9/nextaws1/issues"
+  },
+  "homepage": "https://github.com/indigomx9/nextaws1#readme",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.1",
+    "@types/react": "^17.0.24",
+    "typescript": "^4.4.3"
+  }
+}
+
+
+
